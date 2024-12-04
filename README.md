@@ -35,7 +35,7 @@ longitude (FLOAT)
 
 * `POST /api/v1/addSchool`: Create a new school.
 
-### addSchool
+### listSchools
 
 * `GET /api/v1/listSchools`: Get all schools.
 
@@ -66,6 +66,6 @@ To get a local copy up and running, follow these steps:
 
 ## Additional Resources
 
-[Live Link](https://)
+[Live Link](https://school-management-assignment-3quc.onrender.com)
 
-[Postman API Documentation](https://)
+[Postman API Documentation](https://documenter.getpostman.com/view/24521993/2sAYBaApaf)
